@@ -64,4 +64,3 @@ for i in range(len(augmentedImages)):
     for row in augmentedImages[i]:
         print(row)
     print()
-
